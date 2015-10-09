@@ -8,6 +8,7 @@ using IdentityServer3.Core.Services;
 using IdentityServer3.Core.Services.Default;
 using Serilog;
 
+
 namespace SampleApp
 {
     internal class Startup
